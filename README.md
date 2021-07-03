@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 😄
+
+I'm a student @ PUC 🚀
+
+🌱 I'm currently learning Front-end developing with React
 
 <!--
 **tomasgv/tomasgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
