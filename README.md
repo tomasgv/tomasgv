@@ -10,8 +10,6 @@ I'm a Software Engineering student @ PUC 🚀
 
 🥞 I usually work in projects with my PFG friends: [@PFGANG](https://github.com/PFGANG)
 
-<br/>
-
 ---
 
 ### 📚 Projects I've worked on
@@ -26,11 +24,8 @@ I'm a Software Engineering student @ PUC 🚀
 - 🎨 [Splintewer](https://splintewer-pg.herokuapp.com/index.php)
 
 - 🥑 [Deliewery](https://deliewery.herokuapp.com/)
-  
-<br/>
 
 ---
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasgv&count_private=true&show_icons=true&theme=omni)
 ](https://github.com/anuraghazra/github-readme-stats)
