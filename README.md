@@ -13,7 +13,6 @@ I'm a Software Engineering student @ PUC 🚀
 <br/>
 
 ---
-<br/>
 
 ### 📚 Projects I've worked on
 
@@ -32,7 +31,6 @@ I'm a Software Engineering student @ PUC 🚀
 
 ---
 
-<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasgv&count_private=true&show_icons=true&theme=omni)
 ](https://github.com/anuraghazra/github-readme-stats)
