@@ -18,7 +18,7 @@ I'm a Software Engineering student @ PUC 🚀
 ### 📚 Projects I've worked on
 
 - [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Politician Tweets](https://pfgang.github.io/webjam/) (1st place in [CCC WebJam 2021-I](https://github.com/cccpuc/webjam))
-- [<img align="left" alt="Fundación RAFA" width="23px" src="https://app-rafa.vercel.app/logo192.png" class="spacedImg"/>   Fundación RAFA](https://app-rafa.vercel.app/)
+- [<img align="left" alt="Fundación RAFA" width="23px" src="https://app-rafa.vercel.app/logo192.png"/>   Fundación RAFA](https://app-rafa.vercel.app/)
 
 - 😎 [Puclife](https://puclife.vercel.app/)
 
@@ -26,7 +26,7 @@ I'm a Software Engineering student @ PUC 🚀
 
 - 🎨 [Splintewer](https://splintewer-pg.herokuapp.com/index.php)
 
-- [<img align="left" width="20px" alt="Deliewery" src="https://deliewery.herokuapp.com/assets/favicon-b4b69c4190e31a81e28b01a6a6495b8d5328591679f1d6c4a128d1fcf9f89ebe.ico" class="spacedImg">Deliewery](https://deliewery.herokuapp.com/)
+- 🥑 [Deliewery](https://deliewery.herokuapp.com/)
   
 <br/>
 
@@ -37,11 +37,6 @@ I'm a Software Engineering student @ PUC 🚀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasgv&count_private=true&show_icons=true&theme=omni)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-<style>
-    .spacedImg {
-        margin-right: 5px;  
-    }
-</style>
 
 <!--
 **tomasgv/tomasgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
