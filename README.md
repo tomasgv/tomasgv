@@ -2,9 +2,9 @@
 
 I'm a Software Engineering student @ PUC 🚀
 
-🌱 I'm currently learning Front-End developing with React
-
 😄 Pronouns: He/him
+
+🌱 I'm currently learning Front-End developing with React
 
 ⚡ Fun fact: I'm really into mindfulness 🧘‍♂️
 
