@@ -14,7 +14,7 @@ I'm a Software Engineering student @ PUC 🚀
 
 ### 📚 Projects I've worked on
 
-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Politician Tweets](https://pfgang.github.io/webjam/) (1st place in [CCC WebJam 2021-I](https://github.com/cccpuc/webjam))
+- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Politician Tweets](https://pfgang.github.io/webjam/) (1st place @ [CCC WebJam 2021-I](https://github.com/cccpuc/webjam))
 - [<img align="left" alt="Fundación RAFA" width="23px" src="https://app-rafa.vercel.app/logo192.png"/>   Fundación RAFA](https://app-rafa.vercel.app/)
 
 - 😎 [Puclife](https://puclife.vercel.app/)
