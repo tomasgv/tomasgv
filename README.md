@@ -1,7 +1,7 @@
 ## Hi there, I'm Tomás ✌️
-🚀 I'm a Double Degree Engineering student @ CentraleSupélec & PUC Chile 
+🚀 I'm a Double Degree Engineering student @ CentraleSupélec x PUC Chile 
 
-🌱 I'm currently learning Fullstack development using NextJS, GraphQL and Amplify.
+🌱 I'm currently learning Parallel computing concepts with Intel AVX processors 
 
 ⚡ Fun fact: I'm really into mindfulness 🧘‍
 
@@ -15,14 +15,6 @@
 - [<img align="left" alt="Fundación RAFA" width="23px" src="https://app-rafa.vercel.app/logo192.png"/>   Fundación RAFA](https://app-rafa.vercel.app/)
 
 - 😎 [Puclife](https://puclife.vercel.app/)
-
-- 🤓 [Academic Performance Predictor](https://rendimiento-academico.herokuapp.com/)* (based on previous PUC courses and Grades)
-
-- 🎨 [Splintewer](https://splintewer-pg.herokuapp.com/index.php)*
-
-- 🥑 [Deliewery](https://deliewery.herokuapp.com/)*
-
-*_Not currently online since Heroku stopped offering a free tier. I'll be updating them shortly._
 
 ---
 
